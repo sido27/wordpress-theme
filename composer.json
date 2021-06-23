@@ -1,0 +1,7 @@
+{
+    "name": "doctorsgateteam/bare-theme",
+    "description": "Bare theme for Wordpress",
+    "type": "wordpress-theme",
+    "authors": [],
+    "require": {}
+}
